@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MiroBoard</string>
+    <string name="title_activity_main">MiroBoard</string>
+    <string name="package_name">com.miroboard.app</string>
+    <string name="custom_url_scheme">com.miroboard.app</string>
+</resources>
